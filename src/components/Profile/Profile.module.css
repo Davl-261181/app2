@@ -1,0 +1,11 @@
+.content img {
+    line-height: 1000px;
+  }
+  
+  .content {
+    grid-area: c;
+    background-color: orange;
+}
+
+
+
